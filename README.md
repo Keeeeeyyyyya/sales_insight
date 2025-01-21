@@ -1,5 +1,8 @@
 ## Sales Insight Project
 
+![Screenshot (99)](https://github.com/user-attachments/assets/8671d493-8399-4394-a034-d76d4fcd3868)
+
+
 ### Overview
 This Sales Insight project utilizes SQL for data extraction and Power BI for data visualization and analysis. The objective is to provide actionable insights into the sales performance, identify key trends, and help in data-driven decision-making. The project offers an interactive dashboard that can be used by business stakeholders to understand the overall sales trends, key metrics, and customer behaviors.
 
